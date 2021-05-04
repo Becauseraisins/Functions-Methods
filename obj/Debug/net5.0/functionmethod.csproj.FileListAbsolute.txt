@@ -1,0 +1,16 @@
+C:\Users\matth\Class_work\Intro_programming\functionmethod\obj\Debug\net5.0\functionmethod.csprojAssemblyReference.cache
+C:\Users\matth\Class_work\Intro_programming\functionmethod\obj\Debug\net5.0\functionmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Class_work\Intro_programming\functionmethod\obj\Debug\net5.0\functionmethod.AssemblyInfoInputs.cache
+C:\Users\matth\Class_work\Intro_programming\functionmethod\obj\Debug\net5.0\functionmethod.AssemblyInfo.cs
+C:\Users\matth\Class_work\Intro_programming\functionmethod\obj\Debug\net5.0\functionmethod.csproj.CoreCompileInputs.cache
+C:\Users\matth\Class_work\Intro_programming\functionmethod\bin\Debug\net5.0\functionmethod.exe
+C:\Users\matth\Class_work\Intro_programming\functionmethod\bin\Debug\net5.0\functionmethod.deps.json
+C:\Users\matth\Class_work\Intro_programming\functionmethod\bin\Debug\net5.0\functionmethod.runtimeconfig.json
+C:\Users\matth\Class_work\Intro_programming\functionmethod\bin\Debug\net5.0\functionmethod.runtimeconfig.dev.json
+C:\Users\matth\Class_work\Intro_programming\functionmethod\bin\Debug\net5.0\functionmethod.dll
+C:\Users\matth\Class_work\Intro_programming\functionmethod\bin\Debug\net5.0\ref\functionmethod.dll
+C:\Users\matth\Class_work\Intro_programming\functionmethod\bin\Debug\net5.0\functionmethod.pdb
+C:\Users\matth\Class_work\Intro_programming\functionmethod\obj\Debug\net5.0\functionmethod.dll
+C:\Users\matth\Class_work\Intro_programming\functionmethod\obj\Debug\net5.0\ref\functionmethod.dll
+C:\Users\matth\Class_work\Intro_programming\functionmethod\obj\Debug\net5.0\functionmethod.pdb
+C:\Users\matth\Class_work\Intro_programming\functionmethod\obj\Debug\net5.0\functionmethod.genruntimeconfig.cache
